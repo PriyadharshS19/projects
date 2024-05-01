@@ -1,3 +1,5 @@
 Django
 tzdata
 pillow
+djangorestframework
+psycopg2-binary
